@@ -1,5 +1,5 @@
 # Site setings
-name: 'Horace'
+name: 'Edmar'
 description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
 logo: 'assets/images/logo.png'
@@ -22,14 +22,14 @@ author:
   bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
 
 # Contact form setings
-email: youremail@email.com
+email: edmaroferreira@gmail.com
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'username'
+twitter: 'edmar'
 facebook: 'username'
-github: 'username'
+github: 'edmar'
 codepen: 'username'
 dribbble: 'username'
 medium: '@username'
@@ -41,11 +41,11 @@ producthunt: '@username'
 # Navigation
 navigation:
   - text: About
-    url: /about/
+    url: /about
   - text: Style Guide
-    url: /style-guide/
+    url: /style-guide
   - text: Contact Me
-    url: /contact/
+    url: /contact
 
 # Required Plugins
 plugins_dir:
