@@ -1,8 +1,8 @@
 # Site setings
-name: 'Edmar'
+name: 'edmar.ai'
 description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
 meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
-logo: 'assets/images/logo2.png'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://edmar.github.com/
