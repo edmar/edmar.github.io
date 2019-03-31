@@ -1,12 +1,12 @@
 # Site setings
 name: 'edmar.org'
-description: 'Horace is a simple Jekyll theme for writers and bloggers. Explore it yourself.'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+description: 'The Internet makes smart people smarter and stupid people more stupid.'
+meta_description: 'The Internet makes smart people smarter and stupid people more stupid.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: https://edmar.org/
-disqus: 'justgoodthemes'
+disqus: 'edmar'
 mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 cover_image: bc_1.jpg
 # Add your GA Tracking Id
