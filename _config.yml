@@ -16,14 +16,16 @@ ga_analytics:
 # Author
 author:
   name: 'Edmar'
-  image: 'edmar.png'
+  image: 'library.jpeg'
   greetings: 'Hi there!'
-  description: "My name is Daniel Bennett. I'm a freelance front-end developer, author and speaker based in Austin, TX. It’s nice to meet you."
-  bio: 'Daniel is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.'
+  description: "My name is Edmar Ferreira. I'm a founder, developer and bookworm. I have been making things since I teached myself how to code at 13. I mostly write here 
+  about Startups, AI and Books."
+  bio: "My name is Edmar Ferreira. I'm a founder, developer and bookworm. I have been making things since I teached myself how to code at 13. I mostly write here 
+  about Startups, AI and Books."
 
 # Contact form setings
-email: edmaroferreira@gmail.com
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+email: email@edmar.org 
+contact_page_description: "You can contact me at email@edmar.org"
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
@@ -35,8 +37,6 @@ producthunt: '@edmar'
 navigation:
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
   - text: Contact Me
     url: /contact
 
