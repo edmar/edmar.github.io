@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Applying first principles thinking to your startup'
-tags: [Writing, Meta]
+tags: [Startups]
 featured_image_thumbnail: assets/images/posts/2019/clock.jpeg
 featured_image: assets/images/posts/2019/clock.jpeg
 featured: true
