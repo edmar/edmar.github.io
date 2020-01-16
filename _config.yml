@@ -1,5 +1,5 @@
 # Site setings
-name: 'edmar.org'
+name: 'Edmar Ferreira'
 description: 'The Internet makes smart people smarter and stupid people more stupid.'
 meta_description: 'The Internet makes smart people smarter and stupid people more stupid.'
 logo: 'assets/images/logo.png'
@@ -15,7 +15,7 @@ ga_analytics: UA-74235610-4
 
 # Author
 author:
-  name: 'Edmar'
+  name: 'Edmar Ferreira'
   image: 'read.jpg'
   greetings: 'Hi there!'
   description: "My name is Edmar Ferreira. I'm a founder, developer and bookworm. I have been making things since I teached myself how to code at 13. I mostly write here 
@@ -29,9 +29,10 @@ contact_page_description: "You can contact me at email@edmar.org"
 thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-twitter: 'edmar'
+twitter: 'edmarferreira'
+instagram: 'edmarferreira'
 github: 'edmar'
-producthunt: '@edmar'
+
 
 # Navigation
 navigation:
